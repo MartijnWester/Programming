@@ -1,7 +1,7 @@
 #a
-# s1 = 'Supercalifragilisticexpialidocious'
-# print(len(s1))
-#
+s1 = 'Supercalifragilisticexpialidocious'
+print(len(s1))
+
 # #b
 # s1 = 'Supercalifragilisticexpialidocious'
 # print ('ice' in s1)
