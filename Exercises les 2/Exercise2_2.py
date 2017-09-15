@@ -1,4 +1,4 @@
-cijferICOR = 6
+cijferICOR = 9.5
 cijferPROG = 8
 cijferCSN = 7
 gemiddelde = (cijferICOR+cijferPROG+cijferCSN) / 3
