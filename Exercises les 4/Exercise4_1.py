@@ -3,4 +3,4 @@ def som(lst):
     for x in lst:
         ret += x
     return ret
-print(som([1, 2, 0]))
+print(som([1, 2, 3]))
