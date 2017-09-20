@@ -1,6 +1,6 @@
 def som(lst):
-    ret = 0
+    vanaf = 0
     for x in lst:
-        ret += x
-    return ret
-print(som([1, 2, 3]))
+        vanaf += x
+    return vanaf
+print(som([2, 3, 4]))
