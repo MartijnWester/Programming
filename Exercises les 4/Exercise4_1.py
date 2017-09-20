@@ -1,5 +1,5 @@
 def som(getal1, getal2, getal3):
-    totaal = getal1+getal2+getal3
+    totaal = getal1 + getal2 + getal3
     return totaal
-totaal = som(1,3,1000)
+totaal = som(1,3,5)
 print(totaal)
