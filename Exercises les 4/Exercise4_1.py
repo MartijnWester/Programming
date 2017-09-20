@@ -1,6 +1,5 @@
-def som(lst):
-    vanaf = 0
-    for x in lst:
-        vanaf += x
-    return vanaf
-print(som([2, 3, 4]))
+def som(getal1, getal2, getal3):
+    totaal = getal1+getal2+getal3
+    return totaal
+totaal = som(1,3,1000)
+print(totaal)
