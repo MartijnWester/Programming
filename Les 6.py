@@ -21,11 +21,11 @@
 #     res = res + num
 #     print(res)
 #
-# def acronym(phrase):
-#     temp = phrase.split(sep=' ')
-#     print(temp)
-#     acr = ''
-#     for eerste in temp:
-#         acr += eerste[0].upper()
-#     return acr
-# print(acronym(input('Enter the phrase here: ')))
+def acronym(phrase):
+    temp = phrase.split(sep=' ')
+    print(temp)
+    acr = ''
+    for eerste in temp:
+        acr += eerste[0].upper()
+    return acr
+print(acronym(input('Enter the phrase here: ')))
