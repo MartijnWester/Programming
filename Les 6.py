@@ -11,7 +11,7 @@
 #         print("Je hebt een normaal gewicht")
 # BMI(weight, height)
 #
-# pets = ['cat', 'dog', 'fish', 'bird']
+# pets = ['cat', 'dog', 'fish', 'bird', 'koe']
 # for i in range(len(pets)):
 #     print(pets[i], end=' ')
 #
@@ -21,11 +21,11 @@
 #     res = res + num
 #     print(res)
 #
-def acronym(phrase):
-    temp = phrase.split(sep=' ')
-    print(temp)
-    acr = ''
-    for eerste in temp:
-        acr += eerste[0].upper()
-    return acr
-print(acronym(input('Enter the phrase here: ')))
+# def acronym(phrase):
+#     temp = phrase.split(sep=' ')
+#     print(temp)
+#     acr = ''
+#     for eerste in temp:
+#         acr += eerste[0].upper()
+#     return acr
+# print(acronym(input('Enter the phrase here: ')))
