@@ -1,10 +1,6 @@
-getallenlijst = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
-def som(lijst):
-    getal=0
-    for elkewaarde in lijst:
-        getal+=elkewaarde
-
-    return getal
-x=som(getallenlijst)
-print (x)
+def som(getallenlijst):
+    vanaf = 0
+    for i in getallenlijst:
+        vanaf = vanaf + i
+    return  vanaf
+print(som([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]))
