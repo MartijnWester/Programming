@@ -3,7 +3,7 @@ def new_password (oldpassword, newpassword):
         print("Your new password is acceptable")
         return True
     else:
-        print("Choose a new password")
+        print("Unacceptable, choose a new password")
         return False
 
-print(new_password('Woord12', 'Banaan'))
+print(new_password(input("Enter your old password here: "), input("Enter your new password here: ")))

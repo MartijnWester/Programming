@@ -43,9 +43,9 @@
 # print(days.keys())
 # vals = days.values()
 # print(vals)
-
-numbers = {'one':'uno', 'two':'dos', 'three':'tres'}
-numbers['dos'] = 'two'
-print(numbers)
-print(numbers['two'])
-
+#
+# numbers = {'one':'uno', 'two':'dos', 'three':'tres'}
+# numbers['dos'] = 'two'
+# print(numbers)
+# print(numbers['two'])
+#

@@ -6,21 +6,21 @@
 # print(set2.intersection(set1))
 # print(set2.difference(set1))
 #
-
-import random
-
-
-def game(rows, cols):
-
-    table = (rows*cols-1)*[''] + ['B']
-    random.shuffle(table)
-
-    while True:
-        pos = input("Enter next position (format: x, y): ")
-        position = pos.split()
-        if table[int(position[0])*cols + int(position[1])] == "B":
-            print("You found the bomb!")
-            break
-        else:
-            print("No bomb at position", pos)
-game(5, 5)
+#
+# import random
+#
+#
+# def game(rows, cols):
+#
+#     table = (rows*cols-1)*[''] + ['B']
+#     random.shuffle(table)
+#
+#     while True:
+#         pos = input("Enter next position (format: x, y): ")
+#         position = pos.split()
+#         if table[int(position[0])*cols + int(position[1])] == "B":
+#             print("You found the bomb!")
+#             break
+#         else:
+#             print("No bomb at position", pos)
+# game(5, 5)

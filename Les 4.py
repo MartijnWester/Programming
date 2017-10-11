@@ -3,6 +3,6 @@
 #     line = 'Welcome, ' + name + ', Welcome to python.'
 #     print(line)
 # print(hello(name))
-lst = ('4', '0', '1', '-2')
-def rng(lst):
-    print(rng(lst))
+# lst = ('4', '0', '1', '-2')
+# def rng(lst):
+#     print(rng(lst))
