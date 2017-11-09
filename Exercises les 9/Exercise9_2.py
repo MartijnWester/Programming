@@ -1,5 +1,5 @@
-import time
 import csv
+import time
 
 bestand = "inloggers.csv"
 
