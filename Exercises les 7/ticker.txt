@@ -1,6 +1,6 @@
 YAHOO:YHOO
 GOOGLE INC:GOOG
-Harley-Davidson:HOG
+Harley-davidson:HOG
 Yamana Gold:AUY
 Sotheby's:BID
-inBev:BUD
+inDev:BUD
