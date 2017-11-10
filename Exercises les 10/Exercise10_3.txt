@@ -6,5 +6,3 @@ e C
 f D
 g A
 h D
-
-
